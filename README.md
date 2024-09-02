@@ -1,4 +1,4 @@
-# Individual Assignment 1 HAUKMARK -- Getting into git
+# Individual Assignment 1 HAULMARK -- Getting into git
 In this assignment, students will be able to practice creating repositories, adding files, committing changes, dealing with branches and managing pull requests.
 
 ## Goal
